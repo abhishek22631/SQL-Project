@@ -140,3 +140,8 @@ Visualizations were created using SQL outputs and presented as:
 - Execute queries from logistics_analysis.sql task-wise
 - Export query outputs for visualization
 - Review insights and KPIs in the presentation
+
+---
+Author: Abhishek Chakraborty
+- 📧 Email: abhishekchakraborty22@yahoo.com
+- 🔗 GitHub: https://github.com/abhishek22631
